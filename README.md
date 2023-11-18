@@ -23,10 +23,14 @@
        convert distance to PARSEC Light Year (by multiplication)
        <br>
        lines can directly be converted to make_float()
-       call the functions to calculate habitibilty and clasify them as rocky 
-       or gaseous 
+       <br>
+       call the functions to calculate habitibilty and clasify them as rocky or gaseous 
+       <br>
        use string.txt for formating (be careful it is ENTER NOT INPUT for openfile)
+       <br>
        the parameters for rocky and gaseous should be smalled than max_distance
+       <br>
        close file
+       <br>
        print the last 6 statements (put conditions for rocky and gaseous)
 
