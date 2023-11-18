@@ -1,5 +1,5 @@
 ###########################################################
-#  Computer Project #5
+  Computer Project #5
 #
 #  Print the welcome statements 
 #    define functions
