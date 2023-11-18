@@ -1,7 +1,7 @@
-###########################################################
+
   Computer Project #5
 
-  Print the welcome statements 
+  Print the welcome statements \n
     define functions
        1. open file
        2. make float using parameters
@@ -19,4 +19,4 @@
        the parameters for rocky and gaseous should be smalled than max_distance
        close file
        print the last 6 statements (put conditions for rocky and gaseous)
-###########################################################
+
