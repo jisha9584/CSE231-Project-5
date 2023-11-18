@@ -1,18 +1,28 @@
-
   Computer Project #5
-
-  Print the welcome statements \n
+<br>
+  Print the welcome statements
+  <br>
     define functions
+    <br>
        1. open file
+       <br>
        2. make float using parameters
+       <br>
        3. density
+       <br>
        4. temp in range
+       <br>
        5. temp in range
+       <br>
     define main
+    <br>
        open file --> skip the first line 
-       define all the variables in the main not at the begining 
+       <br>
+       define all the variables in the main not at the begining
+       <br>
        convert distance to PARSEC Light Year (by multiplication)
-       lines can directly be converted to make_float() 
+       <br>
+       lines can directly be converted to make_float()
        call the functions to calculate habitibilty and clasify them as rocky 
        or gaseous 
        use string.txt for formating (be careful it is ENTER NOT INPUT for openfile)
